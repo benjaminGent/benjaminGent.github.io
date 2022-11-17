@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/1-rochesterres.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -302,8 +302,8 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 80vh;
+        padding-bottom: 20vh;
     }
 
     header .intro-text .intro-lead-in {
@@ -502,7 +502,7 @@ section h3.section-subheading {
 }
 
 .timeline>li .timeline-image h4 {
-    margin-top: 12px;
+    margin-top: 7px;
     font-size: 10px;
     line-height: 14px;
 }
@@ -570,8 +570,8 @@ section h3.section-subheading {
     }
 
     .timeline>li .timeline-image h4 {
-        margin-top: 16px;
-        font-size: 13px;
+        margin-top: 7px;
+        font-size: 10px;
         line-height: 18px;
     }
 

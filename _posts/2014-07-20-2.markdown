@@ -1,0 +1,16 @@
+---
+title: YBa2Cu4O8
+subtitle: Further Into The Depths
+layout: default
+modal-id: 2
+date: 2014-07-20
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+category: Web Development
+description: P
+---
+This is the second conductor I synthesised. The first mention of its superconducting properties dates back to 1989 and its critical temperature is estimated to be around 80K. As you can deduce, the superconductor’s ratio between the metals resembles the Y123’s and, therefore, it would be logical to rely on the same investigation I attached in the previous box. However, just to be sure, I followed another scientific work, which describes a method of synthesis of this particullar alloy, instead of simply amending the proportions and following the YBa2Cu3O7 investigation I reffered to in the previous box. If you want to prepeare this superconductor on your own, I recomend relying on one of the methods described in this scientific work. 
+
+[link](https://www.sciencedirect.com/science/article/abs/pii/092145349192044C)https://www.sciencedirect.com/science/article/abs/pii/092145349192044C

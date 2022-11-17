@@ -1,0 +1,15 @@
+---
+title: Bi2Sr2Ca2Cu3O10
+subtitle: Another example of ReBCO superconductors
+layout: default
+modal-id: 6
+date: 2014-07-24
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: PENPEN
+---
+Besides YBCO superconductors I've talked about earlier, this one has the same CuO base, but utilizes calcium as a substitude for barium and bismuth and strontium for yttrium. It was discovered approximately at the same time as YBCO and has a critical temperature of 110K.

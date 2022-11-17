@@ -1,0 +1,15 @@
+---
+title: Y2Ba10Cu12O25+
+subtitle: YBCO Reformulated for Room-Temperature Superconductivity
+layout: default
+modal-id: 4
+date: 2014-07-22
+img: treehouse.png
+thumbnail: treehouse-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: P
+---
+Discovered in the 2015, this superconductor was the first YBCO superconductor to exhibit its properties at room temperature. However, room temperature isn't in fact as utopian as it seems to be at first glance. Extremply low temperature is subsubstituted by high pressure and, therefore, in order to maintain the superconductive properties, a lot of energy have to be spend.

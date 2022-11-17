@@ -1,0 +1,28 @@
+---
+title: YBa2Cu3O7
+subtitle: The Grand Beggining
+layout: default
+modal-id: 1
+date: 2014-07-19
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: May 2022
+client: Start Bootstrap
+category: Web Development
+description: P
+---
+It is the most common type II superconductor. It is relatively easy to synthesize, and therefore, it is a perfect example for the conventional use. If you want to experiment with it, there are multiple websites that offer worldwide delivery. 
+
+ArborSci (83.50$) 
+[link](https://www.arborsci.com/products/economy-superconductivity-kit)
+
+Shop.can-superconductors (330.00€)
+[link](https://shop.can-superconductors.com/index.php?id_product=14&controller=product&id_lang=1)
+
+
+However, I highly recomend making one on your own. For these purposes you should follow this investigation that I consider the easiest to follow, yet the most effective one. 
+
+[link](https://shop.can-superconductors.com/index.php?id_product=14&controller=product&id_lang=1)https://shop.can-superconductors.com/index.php?id_product=14&controller=product&id_lang=1
+
+While I was synthesized this superconductor I faced several challenges due to lack of detail in the investigation. That is why I created an itemized video tutorial for non-technical begginers who just discovered the beauty of superconductivity.

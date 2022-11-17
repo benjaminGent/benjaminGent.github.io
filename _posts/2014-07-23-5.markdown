@@ -1,0 +1,16 @@
+---
+title: YCaBa3Cu5O11
+subtitle: Implementation of Calcium
+layout: default
+modal-id: 5
+date: 2014-07-23
+img: startup-framework.png
+thumbnail: startup-framework-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: 2006 
+---
+At first it was thought that implementation of calcium negatively influences critical temperature of a YBCO conductor. However, discovered in the 2006 superconductor proved that this fact was in fact false. In this new formulation critical temperature has increased to 96K. Moreover, it was stated that calcium doping can increase the current across the grain boundary by as much as 35 percent. 
+Whats also intresting about this particular superocnductor is that the positive doping of calcium emerges only in this formulation. For standart YBCO superconductors like Y123, Y124 and Y247 addition of calcium has a negative influence on their critical temperature. I plan to synthesize it within a month (5th of Dec, 2022).

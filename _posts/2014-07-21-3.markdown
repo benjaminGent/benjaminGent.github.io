@@ -1,0 +1,17 @@
+---
+title: Y2Ba4Cu7O15
+subtitle: Another Basic YBCO
+layout: default
+modal-id: 3
+date: 2014-07-21
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+project-date: October 2022
+client: Start Bootstrap
+category: Web Development
+description: P
+---
+Essentially, this superconductor is a fusion of two preceding ones. It has a critical temperature of 95K and the first scientifical work was published around in 1989. There are multiple ways to synthesis any YBCO based superconductor, but for this exact one I encourage you to follow this investigation.
+
+[link](https://iopscience.iop.org/article/10.1088/0953-2048/15/4/316)https://iopscience.iop.org/article/10.1088/0953-2048/15/4/316

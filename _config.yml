@@ -2,13 +2,13 @@ url: https://benjamingent.github.io/
 baseurl: /
 
 # Site settings
-title: LAZY ASS ENGINEERING
+title: Superconductors at school
 email: your-email@domain.com
-description: "THIS ONE FOR MA HOMIES"
+description: "Small blog about my explorations"
 
 # Team names, titles and social links
 people:
-- name: BEN MUFUCKA
+- name: Benjamin Gentsis
   pic: 1
   position: DP STUDENT AT MOSCOW ECONOMIC SCHOOL
   social:
@@ -23,16 +23,8 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/BejaminGent
 
 # Postal address (add as many lines as necessary)
 address:
